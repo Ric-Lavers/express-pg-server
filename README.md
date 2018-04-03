@@ -13,3 +13,13 @@ This one may need a little more, including;
     - form with preview
     - search animation
 _so theres a lot fo work there_
+
+
+## getting started
+
+help from this [one](https://www.youtube.com/watch?v=68KLyXWQ5CU&list=PLM_i0obccy3uwR6ZYa7QE03xDRAqs4Aso&index=10)
+
+**todo**
+- [x] set up boiler plate and push to master.
+- [ ] change code to liq style API.
+- [ ] delete tutorial code .
